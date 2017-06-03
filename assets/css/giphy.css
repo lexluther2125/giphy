@@ -1,0 +1,29 @@
+input {
+	width: 400px !important;
+}
+
+.panel {
+	min-height: 600px;
+	padding: 0px 50px;
+}
+
+.btn:hover, .btn:focus, .btn:active {
+   outline: none !important;
+}
+
+.small_margin {
+	margin: 0px 5px 5px 0px;
+}
+
+.large_margin {
+	margin: 0px 20px 20px 0px;
+}
+
+.flex {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+#gifs img {
+	margin-top: 5px;
+}
