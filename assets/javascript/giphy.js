@@ -2,7 +2,7 @@
 let demo = {
   // Properties
   // buttonArr: ["dog", "cat", "rabbit", "hamster", "cow"],
-  buttonArr: ["Broad City", "Parks and Recreation", "Elf", "Bridesmaids", "SNL", "Borat"];
+  buttonArr: ["Broad City", "Parks and Recreation", "Elf", "Bridesmaids", "SNL", "Borat"],
   
   // Methods
   init: function(data){
